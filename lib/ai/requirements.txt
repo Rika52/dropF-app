@@ -1,0 +1,7 @@
+flatbuffers==1.12.0
+huggingface-hub==0.24.6
+safetensors==0.4.5
+tokenizers==0.19.1
+torch
+transformers
+typing-extensions==4.12.2
